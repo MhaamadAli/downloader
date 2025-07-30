@@ -1,3 +1,19 @@
+# Rust
 /target/
-**/*.rs.bak
 Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test artifacts
+/test_downloads/
